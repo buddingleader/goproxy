@@ -1,0 +1,11 @@
+{
+    "httpport": "8080",
+    "tcpport": "8081",
+    "pprofport": "8082",
+    "lbpolicy": 1,
+    "rwtimeout": "3s",
+    "printinterval": "5s",
+    "heartbeatkeepalive": "5s",
+    "alivecheckinterval": "2.5s",
+    "handlebuffer": 1024
+}
